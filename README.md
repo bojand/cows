@@ -7,7 +7,7 @@ Get a list of cows or a random cow. The `Go` version. Original [JavaScript Cows]
 ## Install
 
 ```sh
-go get github.com/bojand/go-cows
+go get github.com/bojand/cows
 ```
 
 ## API
