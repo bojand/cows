@@ -12,17 +12,17 @@ go get github.com/bojand/cows
 
 ## API
 
-Get all the cows!
-
 ```go
 func All() []string
 ```
 
-Get a random cow!
+Get all the cows.
 
 ```go
 func Random() string
 ```
+
+Get a random cow.
 
 ## Usage
 
