@@ -127,7 +127,7 @@ _______| /\_|  /\_|  /\_|   /\_|  |________
 - [vaca](https://github.com/sindresorhus/vaca) - Get a random ASCII cow 🐮
 - [cows-docker](https://github.com/alexellis/cows-docker) - ASCII cows on Docker
 - [Swift Cows](https://github.com/NozeIO/Noze.io/tree/develop/Sources/cows) - ASCII cows in Swift
-- [Elixir Cows](https://raw.github.com/sotojuan/excows) - ASCII cows in Elixir
+- [Elixir Cows](https://github.com/sotojuan/excows) - ASCII cows in Elixir
 - [Haskell Cows](https://github.com/passy/cows-hs) - ASCII cows in Haskell
 
 ## License
